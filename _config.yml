@@ -21,7 +21,7 @@ repository               : "yizhezhang0418/yizhezhang0418.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/photo.png"
+  avatar           : "/images/photo.png"
   name             : "Yizhe Zhang(张奕喆)"
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
