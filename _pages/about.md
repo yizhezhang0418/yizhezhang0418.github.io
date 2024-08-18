@@ -10,8 +10,8 @@ redirect_from:
 
 About me
 ======
-I'm a first year undergraduate student from [LIESMARS](https://liesmars.whu.edu.cn/), Wuhan University. Prior to that, I graduated from CSU with an undergraduate degree. My research interest mainly includes Robotics and 3D Reconstruction.
+I'm a first year undergraduate student from [LIESMARS](https://liesmars.whu.edu.cn/), Wuhan University. Previously, I obtained my B.Eng degree at School of Geoscience and Info-physics of Central South University in Changsha.My research interest lies in the field of Robotics, especially in 3D Reconstruction and Automatic Control(Probably haven't dabbled in it yet, but really be interested in it).No articles for now, working on it.
 
 Our group's homepage [WHU-USI3DV](https://github.com/WHU-USI3DV)
 
-[Email](yizhezhang0418@163.com) / [Github](https://github.com/yizhezhang0418) / [CSDN](https://blog.csdn.net/m0_63629923?type=blog)
+Some social media platforms:[Email](yizhezhang0418@163.com) / [Github](https://github.com/yizhezhang0418) / [CSDN](https://blog.csdn.net/m0_63629923?type=blog)
