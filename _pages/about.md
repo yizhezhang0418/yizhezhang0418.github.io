@@ -16,7 +16,7 @@ Our group's homepage [WHU-USI3DV](https://github.com/WHU-USI3DV)
 ======
 
 - 2024.09 - now, M.S., LIESMARS, Wuhan University, Wuhan.
-- 
+
 - 2020.09 - 2024.06, B.S., Central South University, Changsha.
 
 
