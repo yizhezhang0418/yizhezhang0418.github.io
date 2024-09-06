@@ -14,15 +14,18 @@ Our group's homepage [WHU-USI3DV](https://github.com/WHU-USI3DV)
 
 📖 Education
 ======
-- 2020.09 - 2024.06, B.S., Central South University, Changsha.
 
 - 2024.09 - now, M.S., LIESMARS, Wuhan University, Wuhan.
+- 
+- 2020.09 - 2024.06, B.S., Central South University, Changsha.
+
 
 🔥 News
 ======
-- 23/10/2023, I was publicized by my college, you can [click here](https://mp.weixin.qq.com/s/5-uR-y1dhPx0i8-yOfTN4Q) to know more.
 
 - 24/06/2024, I graduated from Central South University.
+ 
+- 23/10/2023, I was publicized by my college, you can [click here](https://mp.weixin.qq.com/s/5-uR-y1dhPx0i8-yOfTN4Q) to know more.
 
 
 🎖 Selected Honors and Awards
